@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-14T20:14:21Z",
+  "generated": "2026-10-20T22:01:21Z",
   "image": "deckcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.7.0",
+      "app_version": "0.8.0",
       "arch": "amd64",
-      "generated": "2026-10-14T20:13:30Z",
+      "generated": "2026-10-20T22:00:42Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -196,7 +196,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
@@ -245,7 +245,7 @@
               "PD"
             ],
             "name": "FreeBSD-zoneinfo",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
