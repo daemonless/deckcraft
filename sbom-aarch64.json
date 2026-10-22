@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T20:30:37Z",
+  "generated": "2026-10-22T21:29:11Z",
   "image": "deckcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.9.0",
+      "app_version": "0.10.0",
       "arch": "aarch64",
-      "generated": "2026-10-22T20:30:05Z",
+      "generated": "2026-10-22T21:28:40Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
