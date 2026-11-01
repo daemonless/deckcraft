@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T08:30:38Z",
+  "generated": "2026-11-01T23:31:30Z",
   "image": "deckcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.13.1",
+      "app_version": "0.14.1",
       "arch": "aarch64",
-      "generated": "2026-10-31T08:29:54Z",
+      "generated": "2026-11-01T23:31:02Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -189,7 +189,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p5"
+            "version": "15.1p6"
           },
           {
             "licenses": [
